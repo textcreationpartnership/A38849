@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact account of the daily proceedings of the commissioner of oyer and terminer at York against the late horrid and bloody conspirators. With the particulars of what hath lately occur'd in England. York Jan. 8.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38849</idno>
+            <idno type="STC">Wing E3566</idno>
+            <idno type="STC">ESTC R218231</idno>
+            <idno type="EEBO-CITATION">99829842</idno>
+            <idno type="PROQUEST">99829842</idno>
+            <idno type="VID">34287</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38849)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34287)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2028:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact account of the daily proceedings of the commissioner of oyer and terminer at York against the late horrid and bloody conspirators. With the particulars of what hath lately occur'd in England. York Jan. 8.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Sam. Dancer in Castle-street,</publisher>
+                  <pubPlace>[Dublin :</pubPlace>
+                  <date>A.D. 1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:34287:1" rendition="simple:additions"/>
+            <head>AN Exact Account Of the daily PROCEEDINGS Of the Commiſſioners of OYER and TERMINER AT YORK, Againſt the late Horrid and Bloody CONSPIRATORS, With the particulars of what hath lately occurr'd in <hi>ENGLAND.</hi>
+            </head>
+            <div type="part">
+               <head>York Jan. 8.</head>
+               <p>UPon <hi>Tueſday</hi> laſt late at night, His Majeſties Judges and Ju<g ref="char:EOLhyphen"/>ſtices of <hi>Oyer</hi> and <hi>Terminer</hi> arrived here in ſafety, and were received with much reſpect, and Large Expectation.</p>
+               <p>Upon <hi>Wedneſday</hi> (being <hi>Twelfth-day</hi>) they attended their devo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ons.</p>
+               <p>Yeſterday, was taken up in reading of his Majeſties ſeveral Com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſſions; for the County and City of <hi>York;</hi> and in preparing of the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r and Inqueſt with a charge, ſuitable to the Occaſion.</p>
+               <pb n="2" facs="tcp:34287:2"/>
+               <p>This morning early, were Arraigned Seventeen ſeveral Priſoners; Ten whereof appeared, upon clear Evidence, to have been Actually in Arms at <hi>Farnley-Wood,</hi> and accordingly thereupon, were con<g ref="char:EOLhyphen"/>victed all of High Treaſon, by one and the ſame Jury.</p>
+               <p>The Court ſtill ſitting; the other Seven were Indicted, as Abet<g ref="char:EOLhyphen"/>ters, Conſulters, and Complotters of High Treaſon: Five whereof were return'd Guilty, by the Second Jury; ſo that this day (being the firſt day of Proceeding) hath produc'd Fifteen Convicts for High Treaſon, and others, <hi>Primae Magnitudinis,</hi> are ſtill behind, to come upon the Stage.</p>
+               <p>As for the Fifteen this day convicted; there is not one but Captain <hi>Oates</hi> (in whom we find the greateſt appearance of Regret) that is either of any countenance, or note; but Young Fellows, Stupen<g ref="char:EOLhyphen"/>diouſly, and deſperately reſolved for Treaſonable purpoſes: Aim<g ref="char:EOLhyphen"/>ing at nothing leſs than the deplorable Overthrow of King and Kingdom. This is the brief of what has paſt hitherto, the parti<g ref="char:EOLhyphen"/>culars more at large, I doubt not but you will receive from other hands.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>York, Jan.</hi> 8.</head>
+               <p>This day were Arraigned and Tryed ſeventeen Priſoners, whereof fifteen were found Guilty; and among the reſt one <hi>Corney</hi> a preach<g ref="char:EOLhyphen"/>ing Anabaptiſt, who from the Text, <hi>Faithful and true are thoſe which follow the Lamb,</hi> inferr'd the lawfulneſs of the deſign, ſo it were carri'd on for love of the <hi>Cauſe,</hi> and not for <hi>by ends.</hi>
+               </p>
+               <p>The fact was excellently opened, and as fully prov'd. The de<g ref="char:EOLhyphen"/>ſign came from the Biſhoprick in <hi>March</hi> laſt; and an Intelligence was ſetled betwixt the diſaffected, <hi>there,</hi> and in <hi>Yorkſhire;</hi> and alſo at <hi>Ipſwich</hi> in <hi>Suffolk,</hi> and other Counties: an <hi>Oath</hi> of <hi>ſecrecy</hi> taken, and Agents employed to <hi>London</hi> and the <hi>Weſt</hi> of <hi>England,</hi> for aſ<g ref="char:EOLhyphen"/>ſiſtance.</p>
+               <p>In <hi>June;</hi> Two Agitators were ſent from <hi>Scotland,</hi> to reconcile the Sectaries, and theſe were entertained at one <hi>Oldroyd's</hi> houſe at <hi>Dewsbury,</hi> known by the name of the Divel of <hi>Dewsbury;</hi> (ſince fled) and afterwards divers meetings were appointed at a place called <hi>Stank-houſe</hi> in this County. Whereupon <hi>Marſhden</hi> and <hi>Pal<g ref="char:EOLhyphen"/>mer</hi> were ſent to <hi>London,</hi> as Agitators to the <hi>Secret Committee;</hi> and at their return, brought orders to riſe the 12 of <hi>October,</hi> with aſſu<g ref="char:EOLhyphen"/>rance that the inſurrection ſhould be General; and <hi>White-Hall</hi> at<g ref="char:EOLhyphen"/>tempted. <hi>Nottingham, Glouceſter,</hi> and <hi>Newcaſtle</hi> were to be ſeiz'd for Paſſes, over <hi>Tine, Trent,</hi> and <hi>Severn:</hi> and <hi>Boſton</hi> in <hi>Lincoln-ſhire,</hi> for
+<pb facs="tcp:34287:2"/>a Port to receive ſuccours, and Ammunition from <hi>Holland,</hi> and o<g ref="char:EOLhyphen"/>ther Forreign parts. <hi>York</hi> they aim'd at, to make ſure of this Coun<g ref="char:EOLhyphen"/>ty; but of <hi>Hull</hi> they deſpaired (as <hi>VValters</hi> affirmed in his Teſti<g ref="char:EOLhyphen"/>mony; who to ſay the truth dealt very ſincerely.) All the Gentry were to be ſecured, and perſons were diſpacht, abroad for Aſ<g ref="char:EOLhyphen"/>ſiſtance, Officers and Souldiers liſted all over <hi>England,</hi> to oppoſe <hi>Subſidies, Excize,</hi> &amp;c. To Re-eſtabliſh a <hi>Goſpel Magiſtracy</hi> and <hi>Mi<g ref="char:EOLhyphen"/>niſtry;</hi> and to reſtore the <hi>Long-Parliament;</hi> as the only <hi>Baſis</hi> they could build upon: And laſtly, to curb the <hi>Clergy,</hi> the <hi>Gentry</hi> and <hi>Lawyers.</hi> This is the ſum of the whole matter.</p>
+               <p>It has been no ſmall advantage to the Publick, that the deſign has been ſo openly, and ſo clearly manifeſted; the Tryal of theſe Priſoners, even in the confeſſion of their own party having been fair and Favourable to a high degree: to the wonderful ſatisfaction of the County, and to the Honour of his Sacred Majeſty: whoſe mer<g ref="char:EOLhyphen"/>cy to theſe Offenders for what they have formerly done, is not more eminent, then his Princely Moderation and Juſtice at pre<g ref="char:EOLhyphen"/>ſent; notwithſtanding the provocation of their Repeated Tranſ<g ref="char:EOLhyphen"/>greſſions.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>York, Jan.</hi> 9.</head>
+               <p>His Majeſties Commiſſioners of <hi>Oyer</hi> and <hi>Terminer</hi> came hither late upon <hi>Tueſday</hi> nigh laſt: and were very honourably received by the High-Sheriff Sir <hi>Roger Langley,</hi> and Collonel <hi>Frecheville</hi> (the Governour of this Garriſon,) who, both of them, with the reſpective Horſe of the City, and ſome Country-Troops, Con<g ref="char:EOLhyphen"/>ducted them through the Town.</p>
+               <p>On <hi>VVedneſday,</hi> they reſted, and worſhip'd God at the Cathedral: In the afternoon, the Kings Council put their buſineſs in Order, and digeſted their Inſtructions.</p>
+               <p>On <hi>Thurſday,</hi> (after Sermon in the Minſter) the commiſſion was open'd, in a very full and chearful appearance of the country, the Grand Jury ſworn, and the charge given. After Dinner, the com<g ref="char:EOLhyphen"/>miſſion was open'd, and read in the City; but having no one buſineſs there, they adjourn'd till <hi>Tueſday;</hi> and return'd to the caſtle: where the Grand Jury gave in a bill of Indictment, againſt <hi>Ralph Oates,</hi> (commonly called Captain <hi>Oates</hi>) and ſixteen more in cu<g ref="char:EOLhyphen"/>ſtody.</p>
+               <p>The Kings council thought fit to proceed againſt <hi>Oates,</hi> and nine of them who were actually in the inſurrection at <hi>Farnley-VVood,</hi>
+                  <pb n="4" facs="tcp:34287:3"/>and the evidence being the ſame againſt all of them, one Jury was charged with them.</p>
+               <p>The Kings witneſſes made it appear in evidence, to the clear ſa<g ref="char:EOLhyphen"/>tisfaction of all men, that there was a great Plot laid in the <hi>County Palatine</hi> of <hi>Durham,</hi> for ſetling of a Goſpel-Magiſtracy, and a Goſpel-miniſtry. To which end, the deſign was moulded (for re<g ref="char:EOLhyphen"/>conciling diſſenting parties) to ſet on foot the Long Parliament; and this carried on by an Oath of ſecrecy.</p>
+               <p>This plot was by Agitators conveyed into this county among o<g ref="char:EOLhyphen"/>ther parts, where the conſpirators appointed ſeveral dayes for the Execution: but at laſt pitched upon the 12. of <hi>October.</hi> At which time, the ten priſoners (among others) met armed at <hi>Farnley-Wood,</hi> in Hoſtile manner with a Trumpet: This being fully proved, and no ſhaddow of defence made, the Jury found them all guilty. One <hi>Walters</hi> and young <hi>Oates</hi> behaved themſelves well in their Evi<g ref="char:EOLhyphen"/>dence.</p>
+               <p>With the ſeven other priſoners, a ſecond Jury was charg'd, who were in, only at preachings and plottings, in order to the intended General riſing, which being proved againſt five of them, by ſeve<g ref="char:EOLhyphen"/>ral Witneſſes, and moſt of their concurrent confeſſions: the Jury found them five guilty, but acquitted two of the ſeven, againſt whom there was but one witneſs, and that only of words ſpoken by them.</p>
+               <p>This morning, the Judges, and Juſtices are going to the caſtle to proceed in their work.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>York, Jan.</hi> 9. 1663.</head>
+               <p>On <hi>Thurſday</hi> the ſeventh inſtant the Judges read their commiſſions, at the <hi>Caſtle,</hi> for the <hi>County;</hi> (and Empannelled a Jury, and ſwore witneſſes to give in evidence) and at the <hi>Common-Hall,</hi> for the <hi>City:</hi> The Kings Council made three degrees of Offenders.</p>
+               <list>
+                  <item>1 Thoſe that engaged, and met in arms.</item>
+                  <item>2. Such as knew and aſſented to the Treaſon.</item>
+                  <item>3. Such as knew) though they did not aſſent) and revealed it not.</item>
+               </list>
+               <p>The Grand Jury for the county, began with the firſt ſort of Of<g ref="char:EOLhyphen"/>fenders; who yeſterday, were arraigned, and tryed, Serjeant <hi>Wild</hi> laid home, and open, firſt the wickedneſs of the deſign to pull down Magiſtrates, and Miniſters; to ſubvert all Order, under the ſpecious pretence of ſetting up a Goſpel-magiſtracy, and miniſtry, taking off the Hearth-money, &amp;c. Secondly, he ſaid the plot was firſt hatched
+<pb n="5" facs="tcp:34287:3"/>in the Biſhoprick, from thence came into this County, was here nouriſhed; and then travailed into <hi>Nottingham-ſhire, Lanca-ſhire, London,</hi> and other parts, <hi>Nottingham</hi> ſhould have been Garriſon'd; <hi>York</hi> ſurpriſed; and <hi>Boſton</hi> ſecured. Thirdly, He undertook to bring the guilt of this plot home to the priſoners at the bar; and ſo <hi>Er<g ref="char:EOLhyphen"/>rington, Walters,</hi> and <hi>Greathead,</hi> were called to prove the nature, and Generality of the déſign.</p>
+               <p>
+                  <hi>Errington</hi> ſpake to the firſt contrivance in <hi>Durham,</hi> and to ſeveral meetings he had with ſeveral perſons for the contriving, and car<g ref="char:EOLhyphen"/>rying it on; <hi>Walters,</hi> to ſeveral diſcourſes he had with Dr. <hi>Richardſon</hi> about it; and the Declaration of the cauſe of their riſing, and cor<g ref="char:EOLhyphen"/>reſpondencies elſewhere; <hi>Greathead,</hi> and one more, to ſeveral meet<g ref="char:EOLhyphen"/>ings at <hi>Leeds;</hi> the <hi>Spawe;</hi> and other places, with <hi>Richardſon,</hi> Cap<g ref="char:EOLhyphen"/>tain <hi>Atkinſon,</hi> and other Agents, from <hi>London</hi> and other parts.</p>
+               <p>Three or four witneſſes were then ſworn to charge the priſoners at the bar, with their Actual meeting in Arms, for the Executing of this Plot; and two Witneſſes, at leaſt, proved every one of the priſoners (except the two who were acquitted) to have been at <hi>Farn<g ref="char:EOLhyphen"/>ley-Wood,</hi> in Arms; between one and two in the morning, the 12. of <hi>October</hi> laſt; which was the day agreed upon for the riſing.</p>
+               <p>Captain <hi>Oates</hi> excepted againſt the witneſſes as <hi>Participes criminis,</hi> but that was over-ruled.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>York, January,</hi> 9.</head>
+               <p>Since his late Majeſty of Bleſſed Memory was here, there has not been ſeen ſuch an Appearance of Perſons of Qua<g ref="char:EOLhyphen"/>lity in this Town, as now upon this occaſion: Nor had ever any People fairer Play for their lives, than theſe Conſpirators.</p>
+               <p>There were <hi>Yeſterday</hi> brought to the Bar theſe Priſo<g ref="char:EOLhyphen"/>ners following; <hi>Thomas Oates</hi> a Captain, <hi>Samuel Ellis</hi> (his Trumpetter) <hi>John Ellis, John Nettleton,</hi> Senior, <hi>John Nettleton,</hi> Junior, <hi>Robert Scott, William Tolſon, John Foſſard, Robert Oldroyd, Joſuah Askwith,</hi> aliàs <hi>Sporling, Peregrine Corney, William Towers, John Redſhaw, John Sowden, John Smith, William Aſh, John Errington,</hi> and <hi>Charles Carre.</hi>
+               </p>
+               <pb n="6" facs="tcp:34287:4"/>
+               <p>Two Juries for Life and Death being empannel'd, (and Perſons of eminent quality) the Priſoners excepted onely againſt One; and put themſelves upon their Tryal. Where<g ref="char:EOLhyphen"/>upon, the Evidence being open'd and the Court enform'd; Major <hi>Walters</hi> of <hi>Cundell</hi> was call'd to the Bar; who made an ingenuous Diſcourſe of the whole Progreſs of the De<g ref="char:EOLhyphen"/>ſign, reporting how it had for two years been carried on by a <hi>Private Committee,</hi> that ſate at <hi>London,</hi> that he had the firſt knowledg of it from Doctor <hi>Richardſon</hi> of <hi>Rippon;</hi> that in <hi>July</hi> laſt, they had 12000 Horſe in readineſs in <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> that they had deſign'd a Declaration to unite all the Sectaries; and that they had propoſed <hi>Lambert</hi> or <hi>Lud<g ref="char:EOLhyphen"/>low</hi> for their <hi>Head:</hi> and that the Riſing was to begin in <hi>Ireland;</hi> to follow in <hi>England,</hi> and then in <hi>Scotland. Walters</hi> declar'd likewiſe, who were to command in the <hi>Weſt Ri<g ref="char:EOLhyphen"/>ding,</hi> who in the <hi>Eaſt Riding,</hi> and who in the <hi>North Riding</hi> of this County; who in <hi>Nottinghamſhire, Lancaſhire</hi> and <hi>Biſhoprick;</hi> and what Numbers; who were their <hi>Agents; where</hi> their <hi>Meetings;</hi> and what <hi>Places</hi> and <hi>Paſſes</hi> they were to <hi>Surprize.</hi> After which relation, the firſt <hi>Ten</hi> were ſet to the Bar; and there by Three Witneſſes, <hi>Joſuah Crow<g ref="char:EOLhyphen"/>der, Timothy Crowder</hi> and Young <hi>Oates;</hi> they were proved to have been all actually in Arms on the Twelfth of <hi>October</hi> laſt in <hi>Farnley Wood:</hi> upon which the Jury went out, and preſently returned them <hi>Guilty.</hi> Then were the <hi>Other Eight</hi> ſet to the Bar; Five of which were caſt. Againſt <hi>Carre</hi> there was no Evidence given. <hi>Towers</hi> and <hi>Redſhaw</hi> were acquitted upon the Point of ſingle Witneſſes.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>York, Jan.</hi> 11th.</head>
+               <p>Upon <hi>Saturday</hi> laſt, the Judges ſate late, the Priſoners being grown more troubleſom in excepting to the Jurors;
+<pb n="7" facs="tcp:34287:4"/>eſpecially <hi>Cotton</hi> and <hi>Denham</hi> (Two of the Three that were that day caſt, the third was one <hi>Atkins</hi>) It was ob<g ref="char:EOLhyphen"/>ſerved, that when any Gentlemen were call'd with their Additions; as <hi>Knight, Eſquire,</hi> &amp;c. they would commonly except; till at laſt, the Clerk was order'd to leave out the <hi>Titles,</hi> and then they left challenging. They behav'd them<g ref="char:EOLhyphen"/>ſelves with a moſt notorious inſolence, <hi>Cotton</hi> proteſting, That <hi>he valued his Life no more than the Judg did his Hand<g ref="char:EOLhyphen"/>kerchief:</hi> and <hi>Denham</hi> brake out alſo into Horrible Extra<g ref="char:EOLhyphen"/>vagancies.</p>
+               <p>It was particularly prov'd by <hi>Walters</hi> and others, againſt <hi>Denham:</hi> that he was engaged in an Agreement to ſeiz the Horſes and Arms of the Lord <hi>Falconbridg,</hi> and of the Lord <hi>Fairfax</hi> of <hi>Gilling:</hi> and that they had deſigned to ſecure the Priſoners they took in <hi>Skipton</hi>-Caſtle.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>York, January</hi> 13.</head>
+               <p>On Munday laſt was tried <hi>James Newton</hi> Maſon, <hi>Henry Watſon</hi> and <hi>Richard Wilſon:</hi> the Two later found Guilty. Tueſday, <hi>Carr</hi> was call'd, who confeſſed himſelf Guilty, and was ſet by. <hi>Ralph Rymer</hi> was then call'd and indict<g ref="char:EOLhyphen"/>ed ſingly; he pleaded Not guilty, and made a large and impertinent Defenſe, excepted againſt Seven and thirty Jurors, but was at length found Guilty: and to conclude the work of this Gaol Delivery, there was call'd to the Bar <hi>John Smurfet, Ralph Wade</hi> and <hi>John Wade,</hi> and indicted upon Miſpriſion, though the Evidence were ſufficient to have made them Guilty of Treaſon, yet they to mix Mer<g ref="char:EOLhyphen"/>cy with Juſtice, as if by an united conſent of Judges, Coun<g ref="char:EOLhyphen"/>cil and Jury, paſſed them by as Not Guilty, gave them the Oaths of Allegiance and Supremacy; ordered them to find Sureties, and ſo be diſcharged. There are yet a great many of the Rebels in the Gaol, and the Judges are now at the Caſtle giving Judgment.</p>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:34287:5"/>
+               <head>Perſons Condemned.</head>
+               <p>
+                  <hi>Tho: Oates, Sam. Ellis, John Nettleton</hi> ſen. <hi>John Nettleton</hi> jun. <hi>Rob. Sco<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Will. Tolſon, John Foſter, Robert Oldroyd, Joſuah Askwith</hi> aliàs <hi>Sparling, Peregrine Corney, John S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wden, John Smith, Will. Aſh, John Errington, Reb. Atkins, Will. Cotton, Geo. Denham, Hen. Watſon, Ri<g ref="char:EOLhyphen"/>chard Wilſon, Ralph Rymer. Charles Karr</hi> repriev'd.</p>
+            </div>
+            <div type="part">
+               <head>Perſons Acquitted.</head>
+               <p>
+                  <hi>William Towers, Robert Redſhaw, Rob. Cook, James Newton, Sam. Ward, Will. Sparling, Iohn Smurfit, Ralph Wade, Iohn Wade. A True Copy of the Court-Roll.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>London, <hi>January</hi> 12.</head>
+               <p>From <hi>Barbadees</hi> came lately an Expreſs from the Lord <hi>Willoughby,</hi> which gives an aſſurance of the Settlement of that Iſland, at the moſt for their own advantage and His Majeſties ſervice. Four compleat Regiments are now formed for its defenſe, One of Horſe and Three of Foot; of which that which bears the colours and Name of His Ma<g ref="char:EOLhyphen"/>jeſty, conſiſts of 2400 effective, beſides which His Majeſty is ſending an addition of 12 Pieces of Ordinance to ſtrengthen the place. This being ſo well ſecured, his Lordſhip is going to <hi>Santa Lucia</hi> to ſettle a Plantation there, and from the<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> to render that place alſo ſervice<g ref="char:EOLhyphen"/>able to the Crown and Intereſt of <hi>England.</hi>
+               </p>
+               <p>On. <hi>Jan.</hi> 15. Sir <hi>Richard Fanſhaw</hi> takes leave at Court, and next week goes away as Lord Ambaſſador for <hi>Spain.</hi> Sir <hi>John Lawſon</hi> con<g ref="char:EOLhyphen"/>voys him, and from thence goes out with the Ships, which (with thoſe ſent out lately under Cap. <hi>Smith,</hi>) make 11. Sail to <hi>Algiers</hi> to reduce thoſe Pyrats to reaſon.</p>
+               <p>My former told you Colonel <hi>Muddiford</hi> was appointed Governor of <hi>Jamaica;</hi> this, that His Majeſty for the better encouragement of all ſuch as deſire to go thither, hath granted to all perſons of what perſuaſion ſoever, free Liberty of Conſcience, and as much Land <hi>gra<g ref="char:EOLhyphen"/>tis</hi> as they ſhall be able to ſtock.</p>
+               <p>Sir <hi>William Petties</hi> New invented Veſſel is now at <hi>Portſmouth,</hi> and hath by her enduring the Sea, anſwered the grand Objection made againſt her, That in rough weather there was no ſecurity in ſuch a Bottom.</p>
+               <p>
+                  <hi>Jan.</hi> 4. as I am inform'd, Mr. <hi>John Davys</hi> was taken from the Tower, and carried aboard for <hi>Tangier.</hi>
+               </p>
+               <p>The Dutcheſs of <hi>York</hi> has been ſick, and is perfectly recovered of the Meazels.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>DUBLIN, Printed for <hi>Sam. Dancer</hi> in <hi>Caſtle-ſtreet,</hi> A. D. 1663.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
